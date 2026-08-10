@@ -99,9 +99,9 @@ let scenes: [Scene] = [
         title: "調布駅に着くと通知",
         body: "iPhoneを閉じていても、許可されたローカル通知で次の行動を知らせます。",
         phoneTitle: "通知",
-        rows: ["lifeloop", "調布駅に着きました", "ニュースチェック", "毎朝の仕事チェック"],
+        rows: ["LIFELOOP", "調布駅に着きました", "ニュースチェック", "毎朝の仕事チェック"],
         emphasis: "通知をタップしてLogへ",
-        watchTitle: "lifeloop",
+        watchTitle: "LIFELOOP",
         watchBody: "調布駅に着きました\nニュースチェック"
     ),
     Scene(
@@ -158,7 +158,7 @@ func drawPhone(scene: Scene, frame: CGRect) {
     roundedRect(CGRect(x: frame.midX - 92, y: frame.maxY - 72, width: 184, height: 36), radius: 18, fill: .black)
 
     drawText("9:41", in: CGRect(x: frame.minX + 58, y: frame.maxY - 76, width: 110, height: 34), size: 26, weight: .semibold)
-    drawText("lifeloop", in: CGRect(x: frame.minX + 46, y: frame.maxY - 150, width: frame.width - 92, height: 40), size: 28, weight: .semibold, alignment: .center)
+    drawText("LIFELOOP", in: CGRect(x: frame.minX + 46, y: frame.maxY - 150, width: frame.width - 92, height: 40), size: 28, weight: .semibold, alignment: .center)
 
     let card = CGRect(x: frame.minX + 44, y: frame.minY + 190, width: frame.width - 88, height: frame.height - 290)
     roundedRect(card, radius: 28, fill: .white, stroke: color(0xe4e9f0), lineWidth: 2)

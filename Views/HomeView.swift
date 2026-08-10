@@ -30,7 +30,7 @@ struct HomeView: View {
             .padding()
         }
         .themedScreenBackground()
-        .navigationTitle("lifeloop")
+        .navigationTitle("LIFELOOP")
         .navigationBarTitleDisplayMode(.inline)
         .toolbar {
             ToolbarItemGroup(placement: .topBarTrailing) {
@@ -491,14 +491,14 @@ private struct SettingsView: View {
                     }
                 }
 
-                Section("lifeloopについて") {
-                    Text("lifeloopは、登録地点への到着や離脱をきっかけに、その場で取り組みやすい小さな習慣を通知するアプリです。")
+                Section("LIFELOOPについて") {
+                    Text("LIFELOOPは、登録地点への到着や離脱をきっかけに、その場で取り組みやすい小さな習慣を通知するアプリです。")
                     Text("確認しやすいように、Place画面では各地点を左にスワイプして通知テストを実行できます。")
                 }
 
                 Section("権限の使い方") {
                     Label("位置情報は、登録地点への到着判定と地図上の現在地表示に使います。", systemImage: "location.fill")
-                    Label("位置情報を「常に許可」にすると、lifeloopを閉じていても到着通知を受け取れます。", systemImage: "location.badge.plus")
+                    Label("位置情報を「常に許可」にすると、LIFELOOPを閉じていても到着通知を受け取れます。", systemImage: "location.badge.plus")
                     Label("通知は、端末内のローカル通知として表示します。", systemImage: "bell.badge.fill")
                 }
 
@@ -521,7 +521,7 @@ private struct SettingsView: View {
                     }
 
                     Link(destination: PublicDocumentLinks.lifeloopTop) {
-                        Label("lifeloop公式ページ", systemImage: "safari")
+                        Label("LIFELOOP公式ページ", systemImage: "safari")
                     }
                 }
 

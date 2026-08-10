@@ -1,6 +1,6 @@
-# lifeloop MVP
+# LIFELOOP MVP
 
-lifeloopは、Place、Act、Course内Stepを組み合わせ、登録地点に着いたときに必要な行動だけを通知するiOS向けMVPです。
+LIFELOOPは、Place、Act、Course内Stepを組み合わせ、登録地点に着いたときに必要な行動だけを通知するiOS向けMVPです。
 
 ## 1. ディレクトリ構成
 
@@ -63,7 +63,7 @@ lifeloop/
 起動直後にいきなり権限ダイアログは出さず、Home画面の権限カードで以下を先に説明します。
 
 1. 位置情報は登録地点への到着判定に使う
-2. 「常に許可」でlifeloopを閉じていても到着通知を出せる
+2. 「常に許可」でLIFELOOPを閉じていても到着通知を出せる
 3. 通知はサーバー送信ではなく端末内のローカル通知として表示する
 
 ## 5. Place / Act / Steps / Course
@@ -200,10 +200,10 @@ Knock Knock 株式会社によるApp Store公開に向けた法務・サポー�
 | `docs/privacy.html` | 会社共通の個人情報保護方針。 |
 | `docs/terms.html` | 会社共通の利用規約。 |
 | `docs/support.html` | 会社共通のサポートページ。 |
-| `docs/lifeloop/index.html` | lifeloopの法務・サポートトップ。 |
-| `docs/lifeloop/privacy.html` | lifeloop個別の個人情報保護方針。 |
-| `docs/lifeloop/terms.html` | lifeloop個別利用規約。 |
-| `docs/lifeloop/support.html` | lifeloopサポートページ。 |
+| `docs/lifeloop/index.html` | LIFELOOPの法務・サポートトップ。 |
+| `docs/lifeloop/privacy.html` | LIFELOOP個別の個人情報保護方針。 |
+| `docs/lifeloop/terms.html` | LIFELOOP個別利用規約。 |
+| `docs/lifeloop/support.html` | LIFELOOPサポートページ。 |
 | `docs/development/app-store-connect.md` | App Store Connect向けURL、App Privacy回答、Review Notes、公開前チェックの開発用控え。 |
 | `docs/app-store-submission.md` | 旧配置のApp Store公開準備メモ。開発用控えとして保持。 |
 
@@ -211,6 +211,6 @@ Knock Knock 株式会社によるApp Store公開に向けた法務・サポー�
 
 - Product / Marketing URL: `https://www.knockknock.at/products/lifeloop`
 - 会社共通トップ: `https://knockknock-at.github.io/lifeloop/docs/`
-- lifeloopドキュメント直URL: `https://knockknock-at.github.io/lifeloop/docs/lifeloop/`
+- LIFELOOPドキュメント直URL: `https://knockknock-at.github.io/lifeloop/docs/lifeloop/`
 - Privacy Policy URL: `https://knockknock-at.github.io/lifeloop/docs/lifeloop/privacy.html`
 - Support URL: `https://knockknock-at.github.io/lifeloop/docs/lifeloop/support.html`

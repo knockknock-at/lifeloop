@@ -1,7 +1,7 @@
-# lifeloop Apple Submission Package
+# LIFELOOP Apple Submission Package
 
 作成日: 2026-07-03
-対象アプリ: lifeloop
+対象アプリ: LIFELOOP
 提供者: Knock Knock 株式会社
 保存先: `/Users/nagnag/Lifeloop/AppStoreSubmission/2026-07-03-lifeloop-apple-submission/`
 
@@ -22,9 +22,9 @@
 
 ## 重要な前提
 
-- lifeloopはアカウント登録を持ちません。
-- lifeloopは独自サーバーへ位置情報、場所、Act、Course、Step、Logを送信しません。
-- lifeloopは広告SDK、分析SDK、第三者トラッキングSDKを使用しません。
+- LIFELOOPはアカウント登録を持ちません。
+- LIFELOOPは独自サーバーへ位置情報、場所、Act、Course、Step、Logを送信しません。
+- LIFELOOPは広告SDK、分析SDK、第三者トラッキングSDKを使用しません。
 - 位置情報は、登録地点への到着・離脱判定、地図表示、現在地からの場所登録に使います。
 - 通知は端末内のローカル通知として表示します。
 - 将来、サーバー送信、アカウント、広告、分析SDK、外部SDKを追加した場合、この提出パッケージと `docs/` の法務文書を更新してください。

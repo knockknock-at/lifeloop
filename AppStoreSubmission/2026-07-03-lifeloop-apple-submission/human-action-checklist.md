@@ -1,7 +1,7 @@
 # 人間が実施するApp Store申請作業
 
 作成日: 2026-07-12
-対象アプリ: lifeloop
+対象アプリ: LIFELOOP
 提供者: Knock Knock 株式会社
 Bundle ID: at.knockknock.lifeloop
 
@@ -17,7 +17,7 @@ Bundle ID: at.knockknock.lifeloop
 
 - [ ] App Store Connectで新規アプリを作成する。
 - [ ] Bundle IDに `at.knockknock.lifeloop` を選ぶ。
-- [ ] アプリ名に `lifeloop` を入力する。
+- [ ] アプリ名に `LIFELOOP` を入力する。
 - [ ] SKUを入力する。例: `lifeloop-ios-001`
 - [ ] プライマリカテゴリを `ライフスタイル` にする。
 - [ ] セカンダリカテゴリを `仕事効率化` にする。

@@ -1,4 +1,4 @@
-lifeloop is a local-first habit notification app provided by Knock Knock 株式会社. It does not require sign-in and does not upload location, habit, or log data to a backend server.
+LIFELOOP is a local-first habit notification app provided by Knock Knock 株式会社. It does not require sign-in and does not upload location, habit, or log data to a backend server.
 
 Location permission is used to register places, show the user's current location on the in-app map, and trigger local notifications when the device enters or exits registered regions. Notification permission is used only for local notifications.
 

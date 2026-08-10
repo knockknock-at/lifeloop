@@ -1,7 +1,7 @@
 # App Privacy回答控え
 
 作成日: 2026-07-03
-対象アプリ: lifeloop
+対象アプリ: LIFELOOP
 提供者: Knock Knock 株式会社
 
 ## 推奨回答

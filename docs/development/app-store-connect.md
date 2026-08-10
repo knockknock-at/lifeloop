@@ -1,4 +1,4 @@
-# lifeloop App Store Connect Development Notes
+# LIFELOOP App Store Connect Development Notes
 
 最終更新日: 2026年7月12日
 
@@ -10,7 +10,7 @@
 | --- | --- |
 | Product Bundle Identifier | `at.knockknock.lifeloop` |
 | Development Team | `34HY3FLLN6` |
-| Display Name | `lifeloop` |
+| Display Name | `LIFELOOP` |
 
 ## App Store Connect向けURL
 
@@ -20,7 +20,7 @@
 | Privacy Policy URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/privacy.html` |
 | Support URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/support.html` |
 | Terms URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/terms.html` |
-| lifeloop ドキュメント直URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/` |
+| LIFELOOP ドキュメント直URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/` |
 | 会社共通トップ | `https://knockknock-at.github.io/lifeloop/docs/` |
 
 App Store ConnectのMarketing URLは、Knock Knockの商品ページを指定します。Privacy Policy URLとSupport URLは、Apple Reviewが直接確認しやすいようにHTML直URLを指定します。商品ページからも、ログインなしで各ドキュメントへ到達できる状態を維持してください。
@@ -61,7 +61,7 @@ App Store ConnectのMarketing URLは、Knock Knockの商品ページを指定し
 ## Review Notes案
 
 ```text
-lifeloop is a local-first habit notification app. It does not require an account and does not upload location, habit, or log data to a server.
+LIFELOOP is a local-first habit notification app. It does not require an account and does not upload location, habit, or log data to a server.
 
 Location permission is used to register places and to trigger local notifications when the device enters or exits registered regions. Notification permission is used only for local notifications.
 

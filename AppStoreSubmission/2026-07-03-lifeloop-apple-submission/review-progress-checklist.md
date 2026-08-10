@@ -1,7 +1,7 @@
-# lifeloop App Store申請 進行チェックリスト
+# LIFELOOP App Store申請 進行チェックリスト
 
 作成日: 2026-08-10
-対象アプリ: lifeloop
+対象アプリ: LIFELOOP
 提供者: Knock Knock 株式会社
 Bundle ID: at.knockknock.lifeloop
 
@@ -51,7 +51,7 @@ Bundle ID: at.knockknock.lifeloop
 
 - [ ] App Store Connectで新規アプリを作成する。
   - 入力:
-    - Name: `lifeloop`
+    - Name: `LIFELOOP`
     - Bundle ID: `at.knockknock.lifeloop`
     - SKU: `lifeloop-ios-001`
     - Primary Category: `Lifestyle`
@@ -96,7 +96,7 @@ Bundle ID: at.knockknock.lifeloop
 ## 8. Archive / Upload
 
 - [ ] XcodeでArchiveを作成する。
-  - エビデンス: OrganizerにlifeloopのArchiveが表示された画面。
+  - エビデンス: OrganizerにLIFELOOPのArchiveが表示された画面。
 
 - [ ] App Store Connectへビルドをアップロードする。
   - エビデンス: Upload完了画面、またはApp Store ConnectでProcessing中/完了のビルド画面。

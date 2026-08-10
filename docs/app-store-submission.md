@@ -2,7 +2,7 @@
 
 最終更新日: 2026年7月12日
 
-このメモは、Knock Knock 株式会社が提供する現在のlifeloop実装を前提にしたApp Store Connect入力用の開発控えです。ユーザー向け公開ページには掲載せず、提出作業時は `docs/development/app-store-connect.md` を主な参照先にしてください。サーバー送信、アカウント、広告、分析SDK、外部SDKを追加した場合は、プライバシー回答と公開文書を更新してください。
+このメモは、Knock Knock 株式会社が提供する現在のLIFELOOP実装を前提にしたApp Store Connect入力用の開発控えです。ユーザー向け公開ページには掲載せず、提出作業時は `docs/development/app-store-connect.md` を主な参照先にしてください。サーバー送信、アカウント、広告、分析SDK、外部SDKを追加した場合は、プライバシー回答と公開文書を更新してください。
 
 ## Bundle ID
 
@@ -10,17 +10,17 @@
 | --- | --- |
 | Product Bundle Identifier | `at.knockknock.lifeloop` |
 | Development Team | `34HY3FLLN6` |
-| Display Name | `lifeloop` |
+| Display Name | `LIFELOOP` |
 
 ## 公開ページURL
 
-Knock Knockの商品ページをApp Store ConnectのMarketing URLとして使います。Privacy Policy URLとSupport URLは、審査で直接確認しやすいGitHub PagesのHTML直URLを使います。会社共通ページは `/docs/`、lifeloopの個別ページは `/docs/lifeloop/` 配下に置いています。
+Knock Knockの商品ページをApp Store ConnectのMarketing URLとして使います。Privacy Policy URLとSupport URLは、審査で直接確認しやすいGitHub PagesのHTML直URLを使います。会社共通ページは `/docs/`、LIFELOOPの個別ページは `/docs/lifeloop/` 配下に置いています。
 
 | 用途 | URL |
 | --- | --- |
 | Product / Marketing URL | `https://www.knockknock.at/products/lifeloop` |
 | 会社共通トップ | `https://knockknock-at.github.io/lifeloop/docs/` |
-| lifeloopドキュメント直URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/` |
+| LIFELOOPドキュメント直URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/` |
 | Privacy Policy URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/privacy.html` |
 | Support URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/support.html` |
 | Terms URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/terms.html` |
@@ -59,7 +59,7 @@ GitHub Pagesではリポジトリ名 `lifeloop` がURLに入り、現在はリ�
 ## Review Notes案
 
 ```text
-lifeloop is a local-first habit notification app. It does not require an account and does not upload location, habit, or log data to a server.
+LIFELOOP is a local-first habit notification app. It does not require an account and does not upload location, habit, or log data to a server.
 
 Location permission is used to register places and to trigger local notifications when the device enters or exits registered regions. Notification permission is used only for local notifications.
 

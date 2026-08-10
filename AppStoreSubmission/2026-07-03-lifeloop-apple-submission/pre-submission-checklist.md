@@ -2,7 +2,7 @@
 
 作成日: 2026-07-03
 更新日: 2026-07-12
-対象アプリ: lifeloop
+対象アプリ: LIFELOOP
 提供者: Knock Knock 株式会社
 
 ## 公開ページ
@@ -12,7 +12,7 @@
 - [ ] `https://knockknock-at.github.io/lifeloop/docs/lifeloop/privacy.html` がログインなしで開ける。
 - [ ] `https://knockknock-at.github.io/lifeloop/docs/lifeloop/support.html` がログインなしで開ける。
 - [ ] `https://knockknock-at.github.io/lifeloop/docs/lifeloop/terms.html` がログインなしで開ける。
-- [ ] 商品ページからlifeloopの説明、プライバシー、サポート情報へログインなしで到達できる。
+- [ ] 商品ページからLIFELOOPの説明、プライバシー、サポート情報へログインなしで到達できる。
 - [ ] 公開ページ内の提供者が `Knock Knock 株式会社` になっている。
 - [ ] 問い合わせ先が `https://github.com/knockknock-at/lifeloop/issues` になっている。
 
