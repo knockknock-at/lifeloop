@@ -28,6 +28,7 @@ Bundle ID: at.knockknock.lifeloop
   - 目的: App Store上の販売元を `Knock Knock 株式会社` にする。
   - エビデンス: Apple DeveloperのMembership画面、または登録完了メールのスクリーンショット。
   - 注意: Individual登録では販売元が個人名になる。
+  - 状態: 2026-08-11時点で登録申請はApple側で処理中。登録IDや法人確認情報は公開リポジトリに保存しない。
 
 - [ ] Apple Developer Programの年会費支払いを完了する。
   - エビデンス: MembershipがActiveになっている画面、または支払い完了メール。
@@ -121,4 +122,3 @@ Bundle ID: at.knockknock.lifeloop
 
 - [ ] Submit for Reviewを実行する。
   - エビデンス: Waiting for Review または審査提出完了画面。
-
