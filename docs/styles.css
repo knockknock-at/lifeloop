@@ -5,10 +5,10 @@
   --text: #1f2428;
   --muted: #5f6b73;
   --line: #d8ddd8;
-  --accent: #1c6b55;
-  --accent-strong: #124d3e;
-  --accent-soft: #e9f3ef;
-  --secondary: #315f87;
+  --accent: #0a7cff;
+  --accent-strong: #0057c8;
+  --accent-soft: #eaf3ff;
+  --secondary: #2f6fdb;
 }
 
 * {
@@ -121,7 +121,7 @@ a {
   width: 128px;
   height: 128px;
   border-radius: 28px;
-  box-shadow: 0 14px 32px rgb(28 107 85 / 18%);
+  box-shadow: 0 14px 32px rgb(10 124 255 / 18%);
 }
 
 .product-heading {
@@ -336,13 +336,13 @@ a {
     --text: #eef2ef;
     --muted: #a9b5ad;
     --line: #39423e;
-    --accent: #7fd0b1;
-    --accent-strong: #9ce0ca;
-    --accent-soft: #1e312b;
-    --secondary: #9dc5ef;
+    --accent: #68b2ff;
+    --accent-strong: #9dccff;
+    --accent-soft: #102a43;
+    --secondary: #8ec5ff;
   }
 
   .primary-link {
-    color: #10201b;
+    color: #061f40;
   }
 }
