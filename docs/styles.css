@@ -217,6 +217,20 @@ a {
   justify-self: end;
 }
 
+.media-credit {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
+.media-section .media-credit {
+  grid-column: 2;
+  width: 100%;
+  max-width: 320px;
+  justify-self: end;
+}
+
 .description-copy {
   max-width: 800px;
 }
@@ -290,6 +304,12 @@ a {
   }
 
   .preview-video {
+    max-width: min(320px, 100%);
+    justify-self: start;
+  }
+
+  .media-section .media-credit {
+    grid-column: auto;
     max-width: min(320px, 100%);
     justify-self: start;
   }
