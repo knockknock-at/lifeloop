@@ -26,8 +26,8 @@ Bundle ID: at.knockknock.lifeloop
 
 - [ ] `app-store-connect-fields-ja.md` の内容をApp Store Connectへ転記する。
 - [ ] Marketing URLに `https://www.knockknock.at/products/lifeloop` を入力する。
-- [ ] Privacy Policy URLに `https://knockknock-at.github.io/lifeloop/docs/lifeloop/privacy.html` を入力する。
-- [ ] Support URLに `https://knockknock-at.github.io/lifeloop/docs/lifeloop/support.html` を入力する。
+- [ ] Privacy Policy URLに `https://knockknock-at.github.io/lifeloop-docs/lifeloop/privacy.html` を入力する。
+- [ ] Support URLに `https://knockknock-at.github.io/lifeloop-docs/lifeloop/support.html` を入力する。
 - [ ] `AppStoreScreenshots/final/` の5枚を表示順どおりアップロードする。
 
 ## 4. App Privacy

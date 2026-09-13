@@ -17,11 +17,11 @@
 | 用途 | URL |
 | --- | --- |
 | Marketing URL | `https://www.knockknock.at/products/lifeloop` |
-| Privacy Policy URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/privacy.html` |
-| Support URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/support.html` |
-| Terms URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/terms.html` |
-| LIFELOOP ドキュメント直URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/` |
-| 会社共通トップ | `https://knockknock-at.github.io/lifeloop/docs/` |
+| Privacy Policy URL | `https://knockknock-at.github.io/lifeloop-docs/lifeloop/privacy.html` |
+| Support URL | `https://knockknock-at.github.io/lifeloop-docs/lifeloop/support.html` |
+| Terms URL | `https://knockknock-at.github.io/lifeloop-docs/lifeloop/terms.html` |
+| LIFELOOP ドキュメント直URL | `https://knockknock-at.github.io/lifeloop-docs/lifeloop/` |
+| 会社共通トップ | `https://knockknock-at.github.io/lifeloop-docs/` |
 
 App Store ConnectのMarketing URLは、Knock Knockの商品ページを指定します。Privacy Policy URLとSupport URLは、Apple Reviewが直接確認しやすいようにHTML直URLを指定します。商品ページからも、ログインなしで各ドキュメントへ到達できる状態を維持してください。
 

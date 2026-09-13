@@ -417,9 +417,9 @@ private struct PermissionAction {
 
 private enum PublicDocumentLinks {
     static let lifeloopTop = URL(string: "https://www.knockknock.at/products/lifeloop")!
-    static let privacyPolicy = URL(string: "https://knockknock-at.github.io/lifeloop/docs/lifeloop/privacy.html")!
-    static let terms = URL(string: "https://knockknock-at.github.io/lifeloop/docs/lifeloop/terms.html")!
-    static let support = URL(string: "https://knockknock-at.github.io/lifeloop/docs/lifeloop/support.html")!
+    static let privacyPolicy = URL(string: "https://knockknock-at.github.io/lifeloop-docs/lifeloop/privacy.html")!
+    static let terms = URL(string: "https://knockknock-at.github.io/lifeloop-docs/lifeloop/terms.html")!
+    static let support = URL(string: "https://knockknock-at.github.io/lifeloop-docs/lifeloop/support.html")!
 }
 
 private struct SettingsView: View {

@@ -192,25 +192,18 @@ func locationManager(_ manager: CLLocationManager, didEnterRegion region: CLRegi
 
 ## 14. 公開用ドキュメント
 
-Knock Knock 株式会社によるApp Store公開に向けた法務・サポート文書は`docs/`に配置しています。
+Knock Knock 株式会社による公開用の法務・サポート文書は、公開専用リポジトリ[`knockknock-at/lifeloop-docs`](https://github.com/knockknock-at/lifeloop-docs)で管理しています。本リポジトリの`docs/`には、旧URLから新URLへの転送ページと開発・提出用の内部資料だけを残しています。
 
 | ファイル | 用途 |
 | --- | --- |
-| `docs/index.html` | Knock Knock 株式会社の法務・サポートトップ。 |
-| `docs/privacy.html` | 会社共通の個人情報保護方針。 |
-| `docs/terms.html` | 会社共通の利用規約。 |
-| `docs/support.html` | 会社共通のサポートページ。 |
-| `docs/lifeloop/index.html` | LIFELOOPの法務・サポートトップ。 |
-| `docs/lifeloop/privacy.html` | LIFELOOP個別の個人情報保護方針。 |
-| `docs/lifeloop/terms.html` | LIFELOOP個別利用規約。 |
-| `docs/lifeloop/support.html` | LIFELOOPサポートページ。 |
+| `docs/index.html`ほか旧公開HTML | `lifeloop-docs`の新URLへ転送する移行ページ。 |
 | `docs/development/app-store-connect.md` | App Store Connect向けURL、App Privacy回答、Review Notes、公開前チェックの開発用控え。 |
 | `docs/app-store-submission.md` | 旧配置のApp Store公開準備メモ。開発用控えとして保持。 |
 
-会社ホームページで公開する場合は、`docs/` のHTMLをサイトルートへ配置してください。App Store Connect向けの転記情報はユーザー向けページではなく、`docs/development/app-store-connect.md` を開発用ドキュメントとして参照します。
+公開文書の変更は`lifeloop-docs`で行います。App Store Connect向けの転記情報は、`docs/development/app-store-connect.md`を開発用ドキュメントとして参照します。
 
 - Product / Marketing URL: `https://www.knockknock.at/products/lifeloop`
-- 会社共通トップ: `https://knockknock-at.github.io/lifeloop/docs/`
-- LIFELOOPドキュメント直URL: `https://knockknock-at.github.io/lifeloop/docs/lifeloop/`
-- Privacy Policy URL: `https://knockknock-at.github.io/lifeloop/docs/lifeloop/privacy.html`
-- Support URL: `https://knockknock-at.github.io/lifeloop/docs/lifeloop/support.html`
+- 会社共通トップ: `https://knockknock-at.github.io/lifeloop-docs/`
+- LIFELOOPドキュメント直URL: `https://knockknock-at.github.io/lifeloop-docs/lifeloop/`
+- Privacy Policy URL: `https://knockknock-at.github.io/lifeloop-docs/lifeloop/privacy.html`
+- Support URL: `https://knockknock-at.github.io/lifeloop-docs/lifeloop/support.html`

@@ -8,19 +8,19 @@
 ## 公開ページ
 
 - [ ] `https://www.knockknock.at/products/lifeloop` がログインなしで開ける。
-- [ ] `https://knockknock-at.github.io/lifeloop/docs/` がログインなしで開ける。
-- [ ] `https://knockknock-at.github.io/lifeloop/docs/lifeloop/privacy.html` がログインなしで開ける。
-- [ ] `https://knockknock-at.github.io/lifeloop/docs/lifeloop/support.html` がログインなしで開ける。
-- [ ] `https://knockknock-at.github.io/lifeloop/docs/lifeloop/terms.html` がログインなしで開ける。
+- [x] `https://knockknock-at.github.io/lifeloop-docs/` がログインなしで開ける（2026-08-31確認）。
+- [x] `https://knockknock-at.github.io/lifeloop-docs/lifeloop/privacy.html` がログインなしで開ける（2026-08-31確認）。
+- [x] `https://knockknock-at.github.io/lifeloop-docs/lifeloop/support.html` がログインなしで開ける（2026-08-31確認）。
+- [x] `https://knockknock-at.github.io/lifeloop-docs/lifeloop/terms.html` がログインなしで開ける（2026-08-31確認）。
 - [ ] 商品ページからLIFELOOPの説明、プライバシー、サポート情報へログインなしで到達できる。
 - [ ] 公開ページ内の提供者が `Knock Knock 株式会社` になっている。
-- [ ] 問い合わせ先が `https://github.com/knockknock-at/lifeloop/issues` になっている。
+- [x] 問い合わせ先が `https://github.com/knockknock-at/lifeloop-docs/issues` になっている（2026-08-31確認）。
 
 ## App Store Connect
 
 - [ ] Marketing URLに `https://www.knockknock.at/products/lifeloop` を入力した。
-- [ ] Privacy Policy URLに `https://knockknock-at.github.io/lifeloop/docs/lifeloop/privacy.html` を入力した。
-- [ ] Support URLに `https://knockknock-at.github.io/lifeloop/docs/lifeloop/support.html` を入力した。
+- [ ] Privacy Policy URLに `https://knockknock-at.github.io/lifeloop-docs/lifeloop/privacy.html` を入力した。
+- [ ] Support URLに `https://knockknock-at.github.io/lifeloop-docs/lifeloop/support.html` を入力した。
 - [ ] `AppStoreScreenshots/final/` の5枚を表示順どおりアップロードした。
 - [ ] App Privacy回答を現行実装と照合した。
 - [ ] 年齢レーティング質問に実装どおり回答した。

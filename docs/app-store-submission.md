@@ -14,18 +14,18 @@
 
 ## 公開ページURL
 
-Knock Knockの商品ページをApp Store ConnectのMarketing URLとして使います。Privacy Policy URLとSupport URLは、審査で直接確認しやすいGitHub PagesのHTML直URLを使います。会社共通ページは `/docs/`、LIFELOOPの個別ページは `/docs/lifeloop/` 配下に置いています。
+Knock Knockの商品ページをApp Store ConnectのMarketing URLとして使います。Privacy Policy URLとSupport URLは、公開専用リポジトリ`knockknock-at/lifeloop-docs`のGitHub Pages直URLを使います。
 
 | 用途 | URL |
 | --- | --- |
 | Product / Marketing URL | `https://www.knockknock.at/products/lifeloop` |
-| 会社共通トップ | `https://knockknock-at.github.io/lifeloop/docs/` |
-| LIFELOOPドキュメント直URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/` |
-| Privacy Policy URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/privacy.html` |
-| Support URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/support.html` |
-| Terms URL | `https://knockknock-at.github.io/lifeloop/docs/lifeloop/terms.html` |
+| 会社共通トップ | `https://knockknock-at.github.io/lifeloop-docs/` |
+| LIFELOOPドキュメント直URL | `https://knockknock-at.github.io/lifeloop-docs/lifeloop/` |
+| Privacy Policy URL | `https://knockknock-at.github.io/lifeloop-docs/lifeloop/privacy.html` |
+| Support URL | `https://knockknock-at.github.io/lifeloop-docs/lifeloop/support.html` |
+| Terms URL | `https://knockknock-at.github.io/lifeloop-docs/lifeloop/terms.html` |
 
-GitHub Pagesではリポジトリ名 `lifeloop` がURLに入り、現在はリポジトリルート公開のため、`docs/lifeloop/index.html` は `https://knockknock-at.github.io/lifeloop/docs/lifeloop/` で開きます。
+GitHub Pagesは公開専用リポジトリ`lifeloop-docs`の`main`ブランチのルートから配信します。本体リポジトリの旧URLは、新URLへの転送専用です。
 
 ## App Privacy回答案
 
@@ -74,7 +74,7 @@ To test the notification flow without physically moving:
 ## 公開前チェック
 
 - `https://www.knockknock.at/products/lifeloop` がブラウザからアクセスできることを確認する。
-- `https://knockknock-at.github.io/lifeloop/docs/lifeloop/privacy.html` と `https://knockknock-at.github.io/lifeloop/docs/lifeloop/support.html` がブラウザからアクセスできることを確認する。
+- `https://knockknock-at.github.io/lifeloop-docs/lifeloop/privacy.html` と `https://knockknock-at.github.io/lifeloop-docs/lifeloop/support.html` がブラウザからアクセスできることを確認する。
 - App Store ConnectのMarketing URL、Privacy Policy URL、Support URLに公開URLを入力する。
 - App Store ConnectのApp Privacy回答が、現在の実装と一致していることを確認する。
 - App Store上の販売元/提供者名、サポート窓口、問い合わせ導線がKnock Knock 株式会社の実態と一致していることを確認する。
